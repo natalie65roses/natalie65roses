@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @natalie65roses
-- 👀 I’m interested in  Risk management and cyber security.
+- 👀 I’m interested in cyber security that is both offensive and defensive security.
 - 🌱 I’m currently learning cyber security 
 - 💞️ I’m looking to collaborate on issues and software that help educate about cyber security 
 - 📫 How to reach me I'll let you know 
